@@ -3,8 +3,9 @@
 [![Github Actions Status](https://github.com/letoku/Jupyterlab-Duckling-syntax-highlighting/workflows/Build/badge.svg)](https://github.com/letoku/Jupyterlab-Duckling-syntax-highlighting/actions/workflows/build.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/letoku/Jupyterlab-Duckling-syntax-highlighting/main?urlpath=lab)
 
-
 Adds duckling syntax highlighting for jupyter notebooks.
+
+https://duckling.pl/
 
 ## Requirements
 

@@ -12,4 +12,3 @@ project_short_description: Adds duckling syntax highlighting for jupyter noteboo
 python_name: jupyterlab_duckling_syntax_highlighting
 repository: https://github.com/letoku/Jupyterlab-Duckling-syntax-highlighting
 test: true
-
