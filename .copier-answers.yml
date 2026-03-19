@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.5.2
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: jakub.tomasz.lewandowski@gmail.com
+author_name: letoku
+has_ai_rules: false
+has_binder: true
+has_settings: false
+kind: frontend
+labextension_name: jupyterlab_duckling_syntax_highlighting
+project_short_description: Adds duckling syntax highlighting for jupyter notebooks.
+python_name: jupyterlab_duckling_syntax_highlighting
+repository: https://github.com/letoku/Jupyterlab-Duckling-syntax-highlighting
+test: true
+
