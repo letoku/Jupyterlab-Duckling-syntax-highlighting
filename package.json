@@ -1,7 +1,7 @@
 {
     "name": "jupyterlab_duckling_syntax_highlighting",
     "version": "0.1.0",
-    "description": "Adds duckling syntax highlighting for jupyter notebooks.",
+    "description": "Adds duckling syntax highlighting for jupyter notebooks.\nhttps://duckling.pl/",
     "keywords": [
         "jupyter",
         "jupyterlab",
