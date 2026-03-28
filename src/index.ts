@@ -53,7 +53,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
   autoStart: true,
   requires: [IEditorLanguageRegistry],
   activate: (app: JupyterFrontEnd, languages: IEditorLanguageRegistry) => {
-    console.log('Duckling syntax highlighting is activated!');
+    console.log('JupyterLab extension jupyterlab_duckling_syntax_highlighting is activated!');
     languages.addLanguage({
       name: 'duckling',
       mime: 'text/x-duckling',
